@@ -1,5 +1,5 @@
 # Spotify Stats Tracker
-#### Video Demo:  <URL HERE>
+#### Video Demo:  (https://youtu.be/wVAGaUPBjBE)
 #### Description:
 Spotify Stats Tracker is a terminal-based Python application that lets users explore insights about their Spotify listening habits.
 
