@@ -18,6 +18,6 @@ This tool is a great way to explore your Spotify activity and generate playlists
 ## You can get your API credentials here: https://developer.spotify.com/
 #### Then change everything in .env
 For redirect_url you can use http://127.0.0.1:8000/callback
-You should not show others your secret and client_id
++ You should not show others your secret and client_id
 
 
