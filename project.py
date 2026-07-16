@@ -344,5 +344,5 @@ def prompt_user(prompt, retry_prompt=None, numbers_range=None, valid_options=Non
 
 
 if __name__ == "__main__":
- main()
-
+    print("Jopa")
+    main()
