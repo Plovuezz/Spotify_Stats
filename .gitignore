@@ -1,3 +1,25 @@
-legacy/.env
-.venv
-.idea
+# Python bytecode (compiled cache files)
+__pycache__/
+*.py[cod]
+
+# Virtual environments (local dependencies)
+.venv/
+venv/
+env/
+
+# Environment secrets and API keys (CRITICAL)
+.env
+*.env
+
+# Testing and Type checking caches
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# IDE settings (VS Code & PyCharm)
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db

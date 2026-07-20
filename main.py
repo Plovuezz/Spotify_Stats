@@ -1,6 +1,6 @@
 def main():
-    print("Hello from spotify-stats!")
+    print('Hello from spotify-stats!')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
