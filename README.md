@@ -19,5 +19,3 @@ This tool is a great way to explore your Spotify activity and generate playlists
 #### Then change everything in .env
 For redirect_url you can use http://127.0.0.1:8000/callback
 + You should not show others your secret and client_id
-
-
